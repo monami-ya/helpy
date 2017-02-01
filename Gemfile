@@ -151,7 +151,7 @@ group :development, :test do
   gem 'annotate'
   gem 'brakeman', require: false
   gem 'rubocop'
-  gem 'scss-lint'
+  gem 'scss_lint'
   gem 'awesome_print'
 end
 
@@ -185,7 +185,7 @@ end
 
 group :production do
   # Uncomment this gem for Heroku:
-  # gem 'rails_12factor'
+  gem 'rails_12factor'
   gem 'unicorn'
 end
 
