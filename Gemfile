@@ -88,6 +88,7 @@ gem 'cloudinary', '1.1.2'
 gem 'attachinary'
 
 gem 'carrierwave', '~> 1.0.0'
+gem 'carrierwave-azure'
 gem "jquery-fileupload-rails"
 gem 'mini_magick'
 
