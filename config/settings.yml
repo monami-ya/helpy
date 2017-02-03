@@ -3,7 +3,7 @@ site_url: https://helpdesk.monami-ya.com # This is the URL of your support site
 
 # Toggle functionality (not fully implemented)
 tickets: true
-forums: true
+forums: false
 knowledgebase: true
 teams: true
 welcome_email: true
