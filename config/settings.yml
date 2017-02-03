@@ -1,5 +1,5 @@
 # System Settings
-site_url: http://support.yourdomain.com # This is the URL of your support site
+site_url: https://helpdesk.monami-ya.com # This is the URL of your support site
 
 # Toggle functionality (not fully implemented)
 tickets: true
@@ -9,9 +9,9 @@ teams: true
 welcome_email: true
 
 # Site Settings (These have been moved into the admin UI and you should change them there!)
-parent_site: /parent-redirect.html # This tells Helpy how to provide a link back to your main site
-parent_company: Main Site # This is the parent company your helpdesk is providing support for
-site_name: Helpy Support # This is the name of your support site
+parent_site: http://www.monami-ya.com/ # This tells Helpy how to provide a link back to your main site
+parent_company: Monami-ya LLC, Japan # This is the parent company your helpdesk is providing support for
+site_name: Monami-ya Helpdesk # This is the name of your support site
 site_tagline: Support and Helpdesk Software # This is the tagline of your support site
 product_name: # This is the product name your are supporting
 support_phone: # This is the support number to be displayed
@@ -20,7 +20,7 @@ app_large_logo: logo.png #Full or partial url app large logo
 app_mini_logo: logo.png # Full or partial url for app mini logo
 
 # Analytics and Tracking
-google_analytics_id: #Enter your analytics ID
+google_analytics_id: UA-47291253-6
 send_usage_data: true
 
 #Recaptcha secret keys
