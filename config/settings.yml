@@ -47,9 +47,9 @@ mail_domain: monami-ya.com
 
 omniauth:
   providers:
-#    github:
-#      id: <%= ENV['OMNIAUTH_GITHUB_ID'] %>
-#      secret: <%= ENV['OMNIAUTH_GITHUB_SECRET'] %>
+    github:
+      id: <%= ENV['OMNIAUTH_GITHUB_ID'] %>
+      secret: <%= ENV['OMNIAUTH_GITHUB_SECRET'] %>
 #    twitter:
 #      id:
 #      secret:
