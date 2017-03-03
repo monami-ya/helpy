@@ -192,4 +192,3 @@ group :production do
   gem 'unicorn'
 end
 
-ruby '>= 2.2', '< 2.4'
